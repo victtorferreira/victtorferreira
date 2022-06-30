@@ -22,7 +22,7 @@ Sou apenas um estudante de programação, que está iniciando nessa nova jornada
 
 ## 🏆 GitHub Trophies
 
-<p>![Header](./your-header-image-name.png)
+<p><img src="https://github-profile-trophy.vercel.app/?username=">
 </p>
 
 ## 📊 Github Status
