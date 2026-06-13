@@ -1,105 +1,129 @@
-<h1 align="center">Olá, eu sou Victor Ferreira 👋</h1>
-
-<h3 align="center">
-Desenvolvedor Backend | Node.js | NestJS | TypeScript | PostgreSQL | Docker
-</h3>
+````md
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Victor+Ferreira!+%F0%9F%91%8B;Desenvolvedor+Backend;Node.js+%7C+NestJS+%7C+TypeScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
-Construindo APIs escaláveis, microsserviços e soluções web modernas.
+  <a href="https://www.linkedin.com/in/victtorferreira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:victojhou@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=victtorferreira&color=blueviolet&style=flat-square&label=Visitantes+no+perfil" alt="Profile views" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Backend com foco em desenvolvimento de APIs REST, microsserviços e aplicações escaláveis.
+```ts
+class VictorFerreira {
+  role = 'Desenvolvedor Backend';
+  location = 'Brasil 🇧🇷';
 
-Atualmente trabalho com:
+  focus = [
+    'Node.js',
+    'NestJS',
+    'TypeScript',
+    'APIs REST',
+    'PostgreSQL',
+    'Docker'
+  ];
 
-- Node.js
-- NestJS
-- TypeScript
-- PostgreSQL
-- Docker
-- Laravel
-- PHP
-- Git e GitHub
+  learning = [
+    'Microsserviços',
+    'Arquitetura de Software',
+    'Cloud Computing',
+    'Laravel'
+  ];
 
-Tenho interesse em arquitetura de software, microsserviços, cloud computing e automação de processos.
-
----
-
-## 🛠️ Tecnologias
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  contact() {
+    return 'victojhou@gmail.com';
+  }
+}
+````
 
 ---
 
-## 📌 Projetos em Destaque
-
-### 💼 Plataforma de Recrutamento
-
-Sistema completo de recrutamento e seleção com dashboard administrativo, gestão de candidatos, vagas e automações.
-
-### 🏥 HealthAI Backend
-
-API backend desenvolvida com NestJS, TypeScript e PostgreSQL.
-
-### 🔐 API de Autenticação
-
-Sistema de autenticação utilizando JWT, Guards, Refresh Token e boas práticas de segurança.
-
-### 📦 Microsserviços com NestJS
-
-Arquitetura baseada em microsserviços para aplicações escaláveis.
-
----
-
-## 📈 Estatísticas
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victtorferreira&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victtorferreira&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,php,laravel,postgres,mysql,docker,git,github,linux,html,css&perline=7" />
 </p>
 
 ---
 
-## 🎯 Objetivos para 2026
+## 📊 Estatísticas do GitHub
 
-- Aprofundar conhecimentos em Arquitetura de Software
-- Evoluir em Microsserviços
-- Aprender Cloud Computing (AWS)
-- Contribuir para projetos Open Source
-- Evoluir para Desenvolvedor Backend Pleno
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=victtorferreira&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=victtorferreira&theme=tokyonight&hide_border=true&locale=pt_BR"
+    width="48%"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
-## 📫 Contato
+## 🌐 Linguagens mais usadas
 
-💼 LinkedIn:
-www.linkedin.com/in/victtorferreira
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victtorferreira&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br"
+    width="45%"
+    alt="Top Languages"
+  />
+</p>
 
-📧 E-mail:
-victojhou@gmail.com
+---
+
+## 🗂️ Resumo detalhado
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victtorferreira&theme=tokyonight" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victtorferreira&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victtorferreira&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victtorferreira&theme=tokyonight" width="32%" />
+</p>
+
+---
+
+## 📈 Gráfico de Atividade
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=victtorferreira&theme=tokyo-night&hide_border=true&area=true&radius=8"
+    width="95%"
+    alt="Activity Graph"
+  />
+</p>
+
+---
+
+## 💬 Citação do dia
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Dev Quote"
+  />
+</p>
+
+---
+
+<p align="center">
+  <b>Backend Developer • Node.js • NestJS • TypeScript • PostgreSQL • Docker</b>
+</p>
+```
