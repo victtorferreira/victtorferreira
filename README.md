@@ -1,27 +1,24 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Newton+Cutrim!+%F0%9F%91%8B;Desenvolvedor+Backend;Apaixonado+por+Laravel+%26+PHP;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Victor+Ferreira!+%F0%9F%91%8B;Desenvolvedor+Backend;Apaixonado+por+Laravel+%26+PHP;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://portifolio-newton.netlify.app">
+  <a href="https://victor-ferreira.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/newton-cutrim/">
+  <a href="https://www.linkedin.com/in/victor-ferreirah/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/qr/5G3WTFX22RXXH1">
+  <a href="https://wa.me/5598985468190?text=Olá%20Victor,%20vi%20seu%20perfil%20no%20GitHub">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/devv_aprendiz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:newtoncutrim777@gmail.com">
+</a>
+  <a href="mailto:devclips.js@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=newtoncutrim&color=blueviolet&style=flat-square&label=Visitantes+no+perfil" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=victorferreira&color=blueviolet&style=flat-square&label=Visitantes+no+perfil" alt="Profile views" />
 </p>
 
 ---
