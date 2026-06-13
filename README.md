@@ -1,49 +1,18 @@
 ````md
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Victor+Ferreira!+%F0%9F%91%8B;Desenvolvedor+Backend;Node.js+%7C+NestJS+%7C+TypeScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<?php
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/victtorferreira">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:victojhou@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+class NewtonCutrim
+{
+    public string $role       = 'Desenvolvedor Full Stack';
+    public string $location   = 'Brasil 🇧🇷';
+    public array  $focus      = ['Nest', 'Laravel', 'Microsserviços', 'APIs REST'];
+    public array  $learning   = ['Docker', 'Kubernetes', 'RabbitMQ'];
+    public string $fun_fact   = 'Apaixonado por tecnologia e por mudar vidas com código 💜';
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=victtorferreira&color=blueviolet&style=flat-square&label=Visitantes+no+perfil" alt="Profile views" />
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-
-```ts
-class VictorFerreira {
-  role = 'Desenvolvedor Backend';
-  location = 'Brasil 🇧🇷';
-
-  focus = [
-    'Node.js',
-    'NestJS',
-    'TypeScript',
-    'APIs REST',
-    'PostgreSQL',
-    'Docker'
-  ];
-
-  learning = [
-    'Microsserviços',
-    'Arquitetura de Software',
-    'Cloud Computing',
-    'Laravel'
-  ];
-
-  contact() {
-    return 'victojhou@gmail.com';
-  }
+    public function contact(): string
+    {
+        return 'newtoncutrim777@gmail.com';
+    }
 }
 ````
 
